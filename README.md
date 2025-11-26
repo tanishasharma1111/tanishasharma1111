@@ -2,14 +2,14 @@
 <h3 align="center">AIML Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GayanMak/Resources/main/Programming/girl-programmer-1.png" width="450"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 </p>
 
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **MERN Stack / Java / Cloud / AIML**
+- 🌱 I’m currently learning **MERN Stack / NLP / Cloud / AIML**
 - 🔭 I love working on **Full-Stack Projects**
 - 💬 Ask me about **JavaScript, React, Python, Node.js**
 - 📫 How to reach me: **tanishasharma181020@gmail.com**
