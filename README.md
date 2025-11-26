@@ -2,9 +2,9 @@
 <h3 align="center">AIML Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GayanMak/Resources/main/Programming/girl-programmer-2.png" width="450"/>
-
+  <img src="https://raw.githubusercontent.com/GayanMak/Resources/main/Programming/girl-programmer-1.png" width="450"/>
 </p>
+
 
 ---
 
