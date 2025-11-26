@@ -2,8 +2,9 @@
 <h3 align="center">AIML Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/211337/screenshots/14580809/media/4f0af9cb9a2b6a5fcd508c24f17df0ee.png" width="420"/>
 </p>
+
 
 
 ---
